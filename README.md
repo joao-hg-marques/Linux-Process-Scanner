@@ -1,5 +1,5 @@
 # Linux-Process-Scanner
-This script scans all Linux processes, uses an Virus Total API and determining if Linux processes running on you Linux devices are malicious or not. 
+This script scans all Linux processes. It uses a Virus Total API and tells if Linux processes running on youy Linux devices are malicious or not. 
 
 This script will run if Python3 is installed. The jq library must be included. If Python3 and jq library are not installed, follow the following steps:
 
