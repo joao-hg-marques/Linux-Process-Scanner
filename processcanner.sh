@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Insert VirusTotal API key
-API_KEY="d135d84b91c39055da8672aa30ce5a2f5a31d8e1961bb5bad08c8208956c8e36"
+API_KEY="ADD_YOUR_API_KEY"
 
 # This gets the list of running processes
 PROCESSES=$(ps -eo command)
